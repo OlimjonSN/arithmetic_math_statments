@@ -84,7 +84,7 @@ Calculate the following expression
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
 |12 6            |2                 |
-|18 5            |3                 |
+|15 5            |3                 |
 
 **Constraints:** 
 
